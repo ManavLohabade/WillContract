@@ -1,1 +1,1 @@
-"# WillContract"   # Create README file
+### Smart Contract for Deceased person
